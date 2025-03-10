@@ -4,9 +4,7 @@ Welcome to my GitHub! I'm a passionate developer who loves to dive into code lik
 
 - 🌱 I’m currently learning new technologies to expand my coding toolkit.
 - 💻 My favorite programming languages: Python, and C++.
-- 🛠️ I'm a game developer, always experimenting with cool new ideas and building interactive experiences.
-- 🌍 Open to collaborations on creative and exciting projects.
-- 🎮 Check out some of my game development work in the repos below!
+- 🛠️ I'm a developer, always experimenting with cool new ideas and building interactive experiences.
 
 ## Fun Facts:
 - 🦆 I may be a duck, but I don't just swim—I'm coding my way to greatness!
