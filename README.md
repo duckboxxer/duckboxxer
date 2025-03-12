@@ -12,4 +12,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=duckboxxer&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# 📨 Contact
+私に連絡したい場合はDiscordなどに連絡ください。
+
+🐧 Discord: 8hd5
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->s
