@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">I'm 🗾 Japan from Osaka<br><br>🖊️ I'm currently learning Go and J🖊️ <br>✨️ I'm favorite language is Python✨️<br>😈 I'm Attacking Discord Grabber 😈</h6>
+<h6 align="left">I'm 🗾 Japan from Osaka<br><br>🖊️ I'm currently learning Go and J🖊️ <br>✨️ I'm favorite language is Python✨️<br>
 
 ###
 
